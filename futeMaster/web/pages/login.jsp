@@ -13,7 +13,7 @@
         <div class="page">
             <form method="POST" class="formLogin">
                 <h1>Login</h1>
-                <p>Digite os seus dados de acesso no campo abaixo.</p>
+                <p>Crie por aqui sua conta.</p>
                 <label for="email">E-mail</label>
                 <input type="email" placeholder="Digite seu e-mail" autofocus="true" />
                 <label for="password">Senha</label>

@@ -25,7 +25,7 @@
                 <label for="password">Senha</label>
                 <input type="password" placeholder="Digite seu e-mail" />
                 <input type="submit" value="Acessar" class="btn" />
-                <p>Caso não tenha uma conta: <a href="login.jsp">Cadastrar</a></p>
+                <p>Caso não tenha uma conta: <a href="login.jsp">Logar</a></p>
             </form>
         </div>
     </body>
